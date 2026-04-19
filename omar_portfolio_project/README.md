@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Omar Elsawy Portfolio
 
 Responsive personal portfolio built with HTML, CSS, and JavaScript.
@@ -18,6 +17,3 @@ Open `index.html` directly in your browser.
 
 - Menoufia University Website and Bank System currently use styled placeholders because screenshots were not provided.
 - Click any project screenshot to open it in a full-screen preview.
-=======
-# OmarPortfolio
->>>>>>> f02bdfd1e23b12008406f71f453ec9ae9a446c0a
